@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+vendor/
+
+# macOS
+.DS_Store
+
+# Editor-specific
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

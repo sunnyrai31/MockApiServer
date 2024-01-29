@@ -1,0 +1,25 @@
+{
+  "name": "mockapiserver",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This server is created to perform the CRUD operation online within given endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyrai31/MockApiServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyrai31/MockApiServer/issues"
+  },
+  "homepage": "https://github.com/sunnyrai31/MockApiServer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
